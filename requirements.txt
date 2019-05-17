@@ -1,0 +1,6 @@
+flask
+cryptography
+black
+isort
+web3==v5.0.0-beta.2
+flask-cors
